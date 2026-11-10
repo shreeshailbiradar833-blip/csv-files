@@ -1,0 +1,11 @@
+Student_ID,Student_Name,Subject,Marks,Attendance_Percentage,Exam_Date,Result
+1001,Aarav,Mathematics,88,92,2026-10-15,Pass
+1002,Diya,Mathematics,76,89,2026-10-15,Pass
+1003,Ishaan,Mathematics,34,71,2026-10-15,Fail
+1004,Meera,Mathematics,95,97,2026-10-15,Pass
+1005,Kabir,Mathematics,67,84,2026-10-15,Pass
+1001,Aarav,Computer Science,91,92,2026-10-17,Pass
+1002,Diya,Computer Science,82,89,2026-10-17,Pass
+1003,Ishaan,Computer Science,48,71,2026-10-17,Fail
+1004,Meera,Computer Science,97,97,2026-10-17,Pass
+1005,Kabir,Computer Science,73,84,2026-10-17,Pass
